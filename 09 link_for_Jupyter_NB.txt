@@ -1,0 +1,6 @@
+Link for Jupyter NB
+
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough
+https://www.youtube.com/watch?v=HW29067qVWk
