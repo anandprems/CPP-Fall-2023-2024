@@ -12,6 +12,8 @@ In this course, we delve into the world of computer programming through the lens
 
 **Jupyter Notebooks:** Explore a collection of interactive Jupyter notebooks, each corresponding to specific topics covered in the course. These notebooks are a hands-on way to practice coding, experiment with algorithms, and solidify your understanding of Python programming concepts.
 
+**Interview-based questions** Added some interview-based questions in the Word document that might help the students to prepare in parallel along with the course
+
 **Getting Started:**
 
 Clone or download the repository to your local machine using the provided links.
@@ -31,8 +33,7 @@ Gain practical experience in applying Python to various domains, such as data an
 Feel free to contribute to this repository by submitting pull requests, sharing additional resources, or suggesting improvements. Your participation can help create a richer and more valuable learning experience for everyone.
 
 **Note:**
-Please remember that the materials provided in this repository are intended for educational purposes and should be used in compliance with your institution's academic honesty policy.
 
-Join us in exploring the world of programming with Python! Let's embark on this exciting journey together. If you have any questions or need assistance, don't hesitate to use the issue tracker or reach out to the course instructors.
+Join us in exploring the world of programming with Python! Let's embark on this exciting journey together. 
 
 Happy coding!
